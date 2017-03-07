@@ -52,3 +52,6 @@ References
 ----------
 - [Official Go website](https://golang.org)
 - [Getting started](https://golang.org/doc/install)
+- https://github.com/golang/go/wiki/Learn
+- https://www.quora.com/What-are-the-best-free-sources-to-learn-Go-programming-language
+- https://dave.cheney.net/resources-for-new-go-programmers
