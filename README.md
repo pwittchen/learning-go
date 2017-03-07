@@ -50,6 +50,13 @@ $ $GOBIN/hello
 
 References
 ----------
+
+## What is Go used for?
+- http://stackoverflow.com/questions/2896191/what-is-go-used-for
+- https://www.quora.com/What-is-golang-good-for
+- http://www.infoworld.com/article/2928602/google-go/whats-the-go-language-really-good-for.html
+
+## Learning
 - [Official Go website](https://golang.org)
 - [Getting started](https://golang.org/doc/install)
 - https://github.com/golang/go/wiki/Learn
