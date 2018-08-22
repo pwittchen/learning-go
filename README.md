@@ -60,7 +60,11 @@ References
 - [Official Go website](https://golang.org)
 - [Documentation - starting point](https://golang.org/doc/)
 - [Getting started](https://golang.org/doc/install)
-- https://github.com/golang/go/wiki/Learn
+- [Tour of Go](https://tour.golang.org/welcome/1)
+- [How to write Go code](https://golang.org/doc/code.html)
+- [Effective Go](https://golang.org/doc/effective_go.html)
+- [Go Tutorial](https://www.tutorialspoint.com/go/)
+- [Go Wiki](https://github.com/golang/go/wiki/Learn)
 - https://www.quora.com/What-are-the-best-free-sources-to-learn-Go-programming-language
 - https://dave.cheney.net/resources-for-new-go-programmers
 - https://gobyexample.com/
